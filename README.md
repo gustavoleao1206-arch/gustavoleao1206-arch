@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Gustavo Leão — full stack developer" width="100%">
+  <img src="./assets/banner-en.png" alt="Gustavo Leão — full stack developer" width="100%">
 </p>
 
 <h2 align="center">Gustavo Leão · Full Stack Developer</h2>
@@ -57,14 +57,14 @@ Clients, cases, business-day deadlines, calendar, documents and fee splitting fo
 **Stack:** Python · FastAPI · SQLAlchemy · PostgreSQL · vanilla JS
 
 ### [Prescrição Pro](https://github.com/gustavoleao1206-arch/prescricao-pro-saas) · legal SaaS with applied AI
-<a href="https://github.com/gustavoleao1206-arch/prescricao-pro-saas"><img src="./assets/prescricao-pro.png" alt="Prescrição Pro" width="100%"></a>
+<a href="https://github.com/gustavoleao1206-arch/prescricao-pro-saas"><img src="./assets/prescricao-pro-en.png" alt="Prescrição Pro" width="100%"></a>
 
 Analyzes tax enforcement lawsuits from the case PDF and flags statute-of-limitations issues, with deterministic date checks, an AI-written report showing every calculation, and a draft petition. Credit-based subscription with payments through Asaas.
 **Highlights:** idempotent credit ledger with refunds, field-level AES-256-GCM encryption, data-retention jobs, nonce-based CSP, 985 automated tests.
 **Stack:** TypeScript · Next.js · Prisma · PostgreSQL · Docker · [live product](https://prescricaopro.com.br)
 
 ### [LA Miner](https://github.com/gustavoleao1206-arch/la-miner) · court-data intelligence
-<a href="https://github.com/gustavoleao1206-arch/la-miner"><img src="./assets/la-miner.png" alt="LA Miner" width="100%"></a>
+<a href="https://github.com/gustavoleao1206-arch/la-miner"><img src="./assets/la-miner-en.png" alt="LA Miner" width="100%"></a>
 
 B2B prospecting SaaS that turns public Brazilian court data into qualified leads: incremental spreadsheet imports from the federal courts, contact enrichment through an external API with queues and scheduled jobs, a per-case CRM and KPI dashboards.
 **Highlights:** multi-tenant API, refresh-token rotation with reuse detection, BullMQ workers, a CI gate that blocks deploys on vulnerable dependencies, 1,166 automated tests.
